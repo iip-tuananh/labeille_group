@@ -381,7 +381,7 @@
                     <a href="{{ route('front.list-blog', $category->slug) }}"
                         title="{{ $category->name }}">{{ $category->name }}</a>
                     <span class="box_title">
-                        <img width="154" height="67" src="/site/images/labeille4.png"
+                        <img width="280" height="48" src="/site/images/labeille4.png"
                             alt="{{ $category->name }}" />
                     </span>
                 </h2>
